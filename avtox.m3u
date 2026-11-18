@@ -1,9 +1,13 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦15.11.2026|10-00|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦18.11.2026|11-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1, Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 ,SEX XTREME
+http://200.108.187.214:8000/play/a09c/index.m3u8
+#EXTINF:-1 ,PLAY BOY
+http://200.108.187.214:8000/play/a09a/index.m3u8
 #EXTINF:-1 ,Hustler
 http://193.33.39.108:9009/play/a02a
 #EXTINF:-1,Private TV
