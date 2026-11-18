@@ -398,8 +398,6 @@ http://194.152.35.17/kino-tv/index.m3u8
 http://178.134.1.158:8081/TVXXI/index.m3u8?token=test
 #EXTINF:-1 group-title="KINO+📺",КИНОСАТ
 http://5.188.221.43:8080/play/kinosat
-#EXTINF:-1 group-title="KINO+📺",BCU CHARM
-http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/62294/hls/pl.m3u8
 #EXTINF:-1 group-title="KINO+📺",ЗОВ ТВ Black
 https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
 #EXTINF:-1 group-title="KINO+📺",STAR CINEMA HD

@@ -4,6 +4,8 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1, Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1,BCU CHARM
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/62294/hls/pl.m3u8
 #EXTINF:-1 ,SEX XTREME
 http://200.108.187.214:8000/play/a09c/index.m3u8
 #EXTINF:-1 ,PLAY BOY
