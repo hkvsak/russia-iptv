@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦15.11.2026|10-00|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦21.11.2026|12-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -94,69 +94,6 @@ http://185.121.1.163:8083/OhotaRybalka/index.m3u8
 #EXTINF:-1 group-title="Tест-17-08",Navo
 http://185.121.1.163:8083/Navo/index.m3u8
 
-
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Фауна
-http://stream.mcquack.net/401/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Терра
-http://stream.mcquack.net/402/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Наука
-http://stream.mcquack.net/403/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Перший Автомобільний
-http://stream.mcquack.net/404/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Фронт
-http://stream.mcquack.net/489/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Мега
-http://stream.mcquack.net/325/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Закон
-http://stream.mcquack.net/406/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Масон
-http://stream.mcquack.net/346/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Трофей
-http://stream.mcquack.net/357/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",6 СОТОК
-http://stream.mcquack.net/405/index.m3u8
-
-
-#EXTINF:-1 group-title="Ott Club",Свiт на виворiт
-http://stream.mcquack.net/49/tracks-v1a1/mono.ts.m3u
-#EXTINF:-1 group-title="Ott Club",Зоосвіт
-http://stream.mcquack.net/460/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",One Planet HD
-http://stream.mcquack.net/448/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Мега
-http://stream.mcquack.net/325/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Трофей
-http://stream.mcquack.net/357/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Свiт на виворiт
-http://stream.mcquack.net/49/tracks-v1a1/mono.ts.m3u
-#EXTINF:-1 group-title="Ott Club",Зоосвіт
-http://stream.mcquack.net/460/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Масон ТВ
-http://stream.mcquack.net/346/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Наука
-http://stream.mcquack.net/403/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Фауна
-http://stream.mcquack.net/401/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",РИБАЛКА
-http://stream.mcquack.net/286/index.m3u8
-#EXTINF:-1 group-title="Ott Club",Приключения HD
-http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",National Geographic HD
-http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Nat Geo Wild HD
-http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Discovery Channel HD
-http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Investigation Discovery HD
-http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Travel Channels HD
-http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Travel XP HD
-http://stream.mcquack.net/451/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",The Explorers
-http://stream.mcquack.net/450/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Insight TV HD
-http://stream.mcquack.net/361/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Uplink (VPN)",Точка отрыва
 https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv2

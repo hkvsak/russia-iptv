@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦18.11.2026|11-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦21.11.2026|12-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1, Кино 18+
@@ -50,40 +50,6 @@ http://91.205.196.7:8000/play/a033
 http://91.205.196.7:8000/play/a03m
 #EXTINF:-1,Dorcel_HD
 http://31.148.5.241:80/Dorcel_HD/index.m3u8
-#EXTINF:-1,Private TV
-http://stream.mcquack.net/282/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Babes TV
-http://stream.mcquack.net/55/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Redlight HD
-http://stream.mcquack.net/51/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Hustler HD Europe
-http://stream.mcquack.net/52/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Brazzers TV Europe HD
-http://stream.mcquack.net/53/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Frenchlover
-http://stream.mcquack.net/54/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",WOODMAN
-http://stream.mcquack.net/56/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",GONZO
-http://stream.mcquack.net/59/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Exxxotica
-http://stream.mcquack.net/57/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Frenchlover
-http://stream.mcquack.net/54/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Erox
-http://stream.mcquack.net/58/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Red Lips HD
-http://stream.mcquack.net/61/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Penthouse Gold HD
-http://stream.mcquack.net/66/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Blue Hustler
-http://stream.mcquack.net/280/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Vivid Red
-http://stream.mcquack.net/284/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Barely Legal TV
-http://stream.mcquack.net/289/index.m3u8
-#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Playboy TV
-http://stream.mcquack.net/290/index.m3u8
 #EXTINF:-1,Brazzers TV Europa
 http://193.239.186.231/BRAZZERS/index.m3u8
 #EXTINF:-1,BRAZZERS
@@ -663,3 +629,123 @@ https://v.imgstream2.com/n/xqfhffexmh/xqfhffexmh.m3u8
 #EXTINF:-1 group-title="XXX Japan video" tvg-logo="https://fchost1.imgscloud.com/b/ei/CH14958.jpg",HEYZO-0304
 https://v.imgstream2.com/d/fayeeifiie/fayeeifiie.m3u8
 
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="93665" tvg-logo="http://epg.propg.net/img/channel_icons/93665.png" ,Hustler HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93665/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="90254" tvg-logo="http://epg.propg.net/img/channel_icons/90254.png" ,Redlight HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/90254/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="54375" tvg-logo="http://epg.propg.net/img/channel_icons/54375.png" ,Private TV HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/54375/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="92273" tvg-logo="http://epg.propg.net/img/channel_icons/92273.png" ,Dorcel TV
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/92273/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="91663" tvg-logo="http://epg.propg.net/img/channel_icons/91663.png" ,Vivid Red HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/91663/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="54982" tvg-logo="http://epg.propg.net/img/channel_icons/54982.png" ,Eroxxx HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/54982/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95026" tvg-logo="http://epg.propg.net/img/channel_icons/95026.png" ,Penthouse Gold
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95026/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="47354" tvg-logo="http://epg.propg.net/img/channel_icons/47354.png" ,Penthouse Reality TV
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/47354/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="62847" tvg-logo="http://epg.propg.net/img/channel_icons/62847.png" ,Brazzers TV Europe
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/62847/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="26472" tvg-logo="http://epg.propg.net/img/channel_icons/26472.png" ,XXL
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/26472/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="38940" tvg-logo="http://epg.propg.net/img/channel_icons/38940.png" ,Blue Hustler
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/38940/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="43882" tvg-logo="http://epg.propg.net/img/channel_icons/43882.png" ,Шалун ТВ
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/43882/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="23879" tvg-logo="http://epg.propg.net/img/channel_icons/23879.png" ,Barely Legal TV
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/23879/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="37449" tvg-logo="http://epg.propg.net/img/channel_icons/37449.png" ,Babes
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/37449/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="47722" tvg-logo="http://epg.propg.net/img/channel_icons/47722.png" ,Red Lips
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/47722/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="26382" tvg-logo="http://epg.propg.net/img/channel_icons/26382.png" ,Extasy 4K Platinum
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/26382/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="27993" tvg-logo="http://epg.propg.net/img/channel_icons/27993.png" ,Шелк
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/27993/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="61194" tvg-logo="http://epg.propg.net/img/channel_icons/61194.png" ,CineMan ExExEx
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/61194/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="29047" tvg-logo="http://epg.propg.net/img/channel_icons/29047.png" ,CineMan ExExEx2
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/29047/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="62294" tvg-logo="http://epg.propg.net/img/channel_icons/62294.png" ,BCU Charm HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/62294/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="93583" tvg-logo="http://epg.propg.net/img/channel_icons/93583.png" ,EroLuxe
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93583/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="93729" tvg-logo="http://epg.propg.net/img/channel_icons/93729.png" ,EroLuxe anal
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93729/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="94724" tvg-logo="http://epg.propg.net/img/channel_icons/94724.png" ,EroLuxe blonde
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94724/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="94956" tvg-logo="http://epg.propg.net/img/channel_icons/94956.png" ,EroLuxe blowjob
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94956/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="94185" tvg-logo="http://epg.propg.net/img/channel_icons/94185.png" ,EroLuxe cinema
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94185/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="94251" tvg-logo="http://epg.propg.net/img/channel_icons/94251.png" ,EroLuxe cosplay
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94251/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="94693" tvg-logo="http://epg.propg.net/img/channel_icons/94693.png" ,EroLuxe ebony
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94693/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="94951" tvg-logo="http://epg.propg.net/img/channel_icons/94951.png" ,EroLuxe gays
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94951/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95420" tvg-logo="http://epg.propg.net/img/channel_icons/95420.png" ,EroLuxe gloryhole
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95420/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="94683" tvg-logo="http://epg.propg.net/img/channel_icons/94683.png" ,EroLuxe henati
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94683/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95284" tvg-logo="http://epg.propg.net/img/channel_icons/95284.png" ,EroLuxe japanese
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95284/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95720" tvg-logo="http://epg.propg.net/img/channel_icons/95720.png" ,EroLuxe lesbians
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95720/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95620" tvg-logo="http://epg.propg.net/img/channel_icons/95620.png" ,EroLuxe massage
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95620/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95793" tvg-logo="http://epg.propg.net/img/channel_icons/95793.png" ,EroLuxe milf
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95793/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95842" tvg-logo="http://epg.propg.net/img/channel_icons/95842.png" ,EroLuxe orgy
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95842/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95836" tvg-logo="http://epg.propg.net/img/channel_icons/95836.png" ,EroLuxe pregnant
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95836/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95728" tvg-logo="http://epg.propg.net/img/channel_icons/95728.png" ,EroLuxe Russian Teens
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95728/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95823" tvg-logo="http://epg.propg.net/img/channel_icons/95823.png" ,EroLuxe shemale
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95823/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95298" tvg-logo="http://epg.propg.net/img/channel_icons/95298.png" ,EroLuxe solo
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95298/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95947" tvg-logo="http://epg.propg.net/img/channel_icons/95947.png" ,EroLuxe stepfamily
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95947/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="96381" tvg-logo="http://epg.propg.net/img/channel_icons/96381.png" ,EroLuxe asian
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/96381/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="95925" tvg-logo="http://epg.propg.net/img/channel_icons/95925.png" ,EroLuxe babysitter
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95925/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="96388" tvg-logo="http://epg.propg.net/img/channel_icons/96388.png" ,EroLuxe bbw
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/96388/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="96295" tvg-logo="http://epg.propg.net/img/channel_icons/96295.png" ,EroLuxe bdsm
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/96295/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="96048" tvg-logo="http://epg.propg.net/img/channel_icons/96048.png" ,EroLuxe bigcock
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/96048/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="96173" tvg-logo="http://epg.propg.net/img/channel_icons/96173.png" ,EroLuxe brunette
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/96173/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="96934" tvg-logo="http://epg.propg.net/img/channel_icons/96934.png" ,EroLuxe cheerleader
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/96934/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="96413" tvg-logo="http://epg.propg.net/img/channel_icons/96413.png" ,EroLuxe creampie
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/96413/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="96952" tvg-logo="http://epg.propg.net/img/channel_icons/96952.png" ,EroLuxe cuckold
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/96952/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="96297" tvg-logo="http://epg.propg.net/img/channel_icons/96297.png" ,EroLuxe faketaxi
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/96297/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="96460" tvg-logo="http://epg.propg.net/img/channel_icons/96460.png" ,EroLuxe fisting
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/96460/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="97493" tvg-logo="http://epg.propg.net/img/channel_icons/97493.png" ,EroLuxe footfetish
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97493/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="97437" tvg-logo="http://epg.propg.net/img/channel_icons/97437.png" ,EroLuxe gangbang
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97437/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="97495" tvg-logo="http://epg.propg.net/img/channel_icons/97495.png" ,EroLuxe parody
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97495/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="97184" tvg-logo="http://epg.propg.net/img/channel_icons/97184.png" ,EroLuxe pov
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97184/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="97159" tvg-logo="http://epg.propg.net/img/channel_icons/97159.png" ,EroLuxe publicagent
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97159/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="97242" tvg-logo="http://epg.propg.net/img/channel_icons/97242.png" ,EroLuxe redheads
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97242/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="97523" tvg-logo="http://epg.propg.net/img/channel_icons/97523.png" ,EroLuxe schoolgirl
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97523/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="98452" tvg-logo="http://epg.propg.net/img/channel_icons/98452.png" ,EroLuxe 4K
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/98452/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="XXX" tvg-id="98462" tvg-logo="http://epg.propg.net/img/channel_icons/98462.png" ,EroLuxe VIP 4K 60fps
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/98462/hlsx/pl.m3u8

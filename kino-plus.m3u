@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦15.11.2026|10-00|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦21.11.2026|12-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -594,155 +594,6 @@ https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
 https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 
 
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CINEMAN
-http://stream.mcquack.net/122/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Время
-http://stream.mcquack.net/237/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",red
-http://stream.mcquack.net/69/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",sci-fi
-http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Наше
-http://stream.mcquack.net/217/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Душевное
-http://stream.mcquack.net/213/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",КиноТВ
-http://stream.mcquack.net/221/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Кинопоказ
-http://stream.mcquack.net/64/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",НСТ
-http://stream.mcquack.net/207/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Еврокино
-http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Fox
-http://stream.mcquack.net/182/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Fox Life
-http://stream.mcquack.net/129/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",ТВ XXI
-http://stream.mcquack.net/152/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Дом Кино
-http://stream.mcquack.net/236/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Дом Кино Премиум
-http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Hollywood
-http://stream.mcquack.net/268/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",24Техно
-http://stream.mcquack.net/209/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kino 1
-http://stream.mcquack.net/395/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kino 2
-http://stream.mcquack.net/465/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Твій Серіал
-http://stream.mcquack.net/466/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Шокирующее
-http://stream.mcquack.net/75/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Хит
-http://stream.mcquack.net/363/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",kino kanal
-http://stream.mcquack.net/470/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CINEMA HD
-http://stream.mcquack.net/62/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax
-http://stream.mcquack.net/484/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Cine Max
-http://stream.mcquack.net/476/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 2
-http://stream.mcquack.net/475/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 3
-http://stream.mcquack.net/474/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 4
-http://stream.mcquack.net/472/index.m3u8 
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 5
-http://stream.mcquack.net/471/index.m3u8 
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Enter-фільм
-http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH PREMIERE
-http://stream.mcquack.net/424/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH CINEMA
-http://stream.mcquack.net/423/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH RATING
-http://stream.mcquack.net/422/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH VHS
-http://stream.mcquack.net/428/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH FAMILY
-http://stream.mcquack.net/427/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH COMEDY
-http://stream.mcquack.net/426/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH tharilles
-http://stream.mcquack.net/434/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH romantic
-http://stream.mcquack.net/433/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH adventure
-http://stream.mcquack.net/432/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH horror
-http://stream.mcquack.net/431/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH series
-http://stream.mcquack.net/430/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH fantastic
-http://stream.mcquack.net/429/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH KIDS
-http://stream.mcquack.net/425/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Мосфильм. Золотая коллекция
-http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Премиальное
-http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Ретро
-http://stream.mcquack.net/191/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Fan
-http://stream.mcquack.net/420/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kinoliving
-http://stream.mcquack.net/445/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kinowood
-http://stream.mcquack.net/446/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kinosweet
-http://stream.mcquack.net/447/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kinogrande
-http://stream.mcquack.net/456/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Дорама
-http://stream.mcquack.net/412/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Твій Серіал
-http://stream.mcquack.net/466/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Шокирующее
-http://stream.mcquack.net/75/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Хит
-http://stream.mcquack.net/363/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Enter-фільм
-http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",BCU
-http://stream.mcquack.net/488/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Мосфильм. Золотая коллекция
-http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Премиальное
-http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Інтер+
-http://stream.mcquack.net/345/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",канал
-http://stream.mcquack.net/157/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",TV 2
-http://stream.mcquack.net/368/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",ТБ
-http://stream.mcquack.net/156/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",2+2
-http://stream.mcquack.net/173/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FilmUADrama
-http://stream.mcquack.net/273/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Суспільне Культура
-http://stream.mcquack.net/435/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",К1
-http://stream.mcquack.net/270/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",ТЕТ
-http://stream.mcquack.net/338/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",ОЦЕ
-http://stream.mcquack.net/329/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",НТН
-http://stream.mcquack.net/326/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Дім
-http://stream.mcquack.net/383/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Bolt
-http://stream.mcquack.net/73/index.m3u8
-
-
-
 #EXTINF:-1 group-title="Uplink (VPN)",Amedia Hit HD
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Uplink (VPN)",Amedia Premium HD
@@ -946,162 +797,6 @@ http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
 http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
 
 
-#EXTINF:-1 group-title="Ott Club",TLC
-http://stream.mcquack.net/168/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Cinema 
-http://stream.mcquack.net/62/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Кинопоказ
-http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Комедийное HD
-http://stream.mcquack.net/74/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Хит HD
-http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",БЛОКБАСТЕР HD
-http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Премиальное HD
-http://stream.mcquack.net/421/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Остросюжетное HD
-http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",CineMan
-http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",CineMan Top
-http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Cineman Premium
-http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Cineman Катастрофы
-http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Cineman Мелодрама
-http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",CineMan Action
-http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",CineMan Thriller
-http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Cineman VHS
-http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Дорама HD
-http://stream.mcquack.net/412/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Kinosweet
-http://stream.mcquack.net/447/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Kinowood HD
-http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",KinoLiving HD
-http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Hollywood HD
-http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fan HD
-http://stream.mcquack.net/420/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Кино ТВ
-http://stream.mcquack.net/221/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Amedia 1
-http://stream.mcquack.net/117/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Amedia Premium 
-http://stream.mcquack.net/151/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Amedia Hit
-http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Капитан фантастика 
-http://stream.mcquack.net/144/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",.red
-http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",.Black 
-http://stream.mcquack.net/263/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",.Sci-Fi
-http://stream.mcquack.net/180/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Kinogrande
-http://stream.mcquack.net/456/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Ужасающее HD
-http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Thriller
-http://stream.mcquack.net/434/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Romantic
-http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Adventure
-http://stream.mcquack.net/432/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Horror
-http://stream.mcquack.net/431/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Series
-http://stream.mcquack.net/430/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Fantastic
-http://stream.mcquack.net/429/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh VHS
-http://stream.mcquack.net/428/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Family
-http://stream.mcquack.net/427/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Comedy
-http://stream.mcquack.net/426/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Kids
-http://stream.mcquack.net/425/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Premiere
-http://stream.mcquack.net/424/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Cinema
-http://stream.mcquack.net/423/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Rating
-http://stream.mcquack.net/422/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Gags Network
-http://stream.mcquack.net/458/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",RAZ 1
-http://stream.mcquack.net/463/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",RAZ 2
-http://stream.mcquack.net/464/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Kino 2
-http://stream.mcquack.net/465/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Iнтер
-http://stream.mcquack.net/174/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Iнтер+
-http://stream.mcquack.net/345/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ТЕТ HD
-http://stream.mcquack.net/338/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Бiгудi
-http://stream.mcquack.net/340/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ПлюсПлюс
-http://stream.mcquack.net/339/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",НТН HD
-http://stream.mcquack.net/326/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ДІМ
-http://stream.mcquack.net/383/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Вікторина
-http://stream.mcquack.net/146/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Мега
-http://stream.mcquack.net/325/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",К2 HD
-http://stream.mcquack.net/324/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Zoom Украина
-http://stream.mcquack.net/327/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",2+2
-http://stream.mcquack.net/173/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Enter-фільм HD
-http://stream.mcquack.net/322/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",TV2
-http://stream.mcquack.net/368/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ТБ HD
-http://stream.mcquack.net/156/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Канал HD
-http://stream.mcquack.net/157/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",1+1 Марафон HD
-http://stream.mcquack.net/172/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Bolt
-http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Еспресо HD
-http://stream.mcquack.net/84/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Закон ТВ
-http://stream.mcquack.net/406/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ПРО КИЇВ
-http://stream.mcquack.net/160/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Kino 1 HD
-http://stream.mcquack.net/395/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Машина часу
-http://stream.mcquack.net/140/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ЖВЛ+
-http://stream.mcquack.net/139/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Сiмейнi Мелодрами+
-http://stream.mcquack.net/137/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Панянка + Селянка
-http://stream.mcquack.net/134/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Опер за викликом +
-http://stream.mcquack.net/50/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Твiй серiал
-http://stream.mcquack.net/466/tracks-v1a1/mono.ts.m3u8
-
-
 #EXTINF:-1 group-title="TEST-29",detective_lam_hd HD
 http://88.218.242.237:8001/DetectiveJam_HD
 #EXTINF:-1 group-title="TEST-29",magnat HD
@@ -1243,3 +938,591 @@ http://185.76.10.53:8080/srv5/teledom/tracks-v1a1/mono.m3u8?cid=144&did=5366158&
 http://185.76.10.53:8080/srv5/tv3_hd/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
 #EXTINF:-1 group-title="Datacamp Limited",VIP Serial HD
 http://185.76.10.53:8080/srv5/vip_serial_hd/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="600" tvg-logo="http://epg.propg.net/img/channel_icons/600.png" ,Кинопремьера
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/600/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="49" tvg-logo="http://epg.propg.net/img/channel_icons/49.png" ,Кинохит
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/49/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="69" tvg-logo="http://epg.propg.net/img/channel_icons/69.png" ,Киносемья
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/69/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="97" tvg-logo="http://epg.propg.net/img/channel_icons/97.png" ,Киномикс
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="11167" tvg-logo="http://epg.propg.net/img/channel_icons/11167.png" ,Мужское кино
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/11167/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="118" tvg-logo="http://epg.propg.net/img/channel_icons/118.png" ,Киносвидание
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/118/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="63" tvg-logo="http://epg.propg.net/img/channel_icons/63.png" ,Наше новое кино
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/63/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="64" tvg-logo="http://epg.propg.net/img/channel_icons/64.png" ,Родное кино
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/64/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="25492" tvg-logo="http://epg.propg.net/img/channel_icons/25492.png" ,Кинокомедия
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/25492/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="84" tvg-logo="http://epg.propg.net/img/channel_icons/84.png" ,Индийское кино
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/84/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="28942" tvg-logo="http://epg.propg.net/img/channel_icons/28942.png" ,Индия
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/28942/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="36520" tvg-logo="http://epg.propg.net/img/channel_icons/36520.png" ,Киносерия
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/36520/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="36858" tvg-logo="http://epg.propg.net/img/channel_icons/36858.png" ,Киноужас
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/36858/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="70" tvg-logo="http://epg.propg.net/img/channel_icons/70.png" ,Amedia 1
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/70/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="25386" tvg-logo="http://epg.propg.net/img/channel_icons/25386.png" ,Amedia 2
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/25386/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="54" tvg-logo="http://epg.propg.net/img/channel_icons/54.png" ,Amedia Hit
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/54/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="601" tvg-logo="http://epg.propg.net/img/channel_icons/601.png" ,Amedia Premium HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/601/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="1471" tvg-logo="http://epg.propg.net/img/channel_icons/1471.png" ,Viju TV1000
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/1471/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="1472" tvg-logo="http://epg.propg.net/img/channel_icons/1472.png" ,Viju TV1000 Action
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/1472/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="1473" tvg-logo="http://epg.propg.net/img/channel_icons/1473.png" ,Viju TV1000 
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/1473/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="38629" tvg-logo="http://epg.propg.net/img/channel_icons/38629.png" ,Viju TV1000 Новелла
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/38629/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="52803" tvg-logo="http://epg.propg.net/img/channel_icons/52803.png" ,Viju TV1000 Romantica
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/52803/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="2003" tvg-logo="http://epg.propg.net/img/channel_icons/2003.png" ,Viju+ Premiere HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/2003/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="2002" tvg-logo="http://epg.propg.net/img/channel_icons/2002.png" ,Viju+ Megahit HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/2002/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="2001" tvg-logo="http://epg.propg.net/img/channel_icons/2001.png" ,Viju+ Comedy HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/2001/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="76679" tvg-logo="http://epg.propg.net/img/channel_icons/76679.png" ,Viju+ Serial HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/76679/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="74228" tvg-logo="http://epg.propg.net/img/channel_icons/74228.png" ,Viasat Kino
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/74228/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="76362" tvg-logo="http://epg.propg.net/img/channel_icons/76362.png" ,Viasat Kino Action
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/76362/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="76332" tvg-logo="http://epg.propg.net/img/channel_icons/76332.png" ,Viasat Kino Comedy
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/76332/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="54329" tvg-logo="http://epg.propg.net/img/channel_icons/54329.png" ,Viasat Kino World
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/54329/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="72094" tvg-logo="http://epg.propg.net/img/channel_icons/72094.png" ,Viasat Serial
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/72094/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="95174" tvg-logo="http://epg.propg.net/img/channel_icons/95174.png" ,GO3 Film HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95174/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="47231" tvg-logo="http://epg.propg.net/img/channel_icons/47231.png" ,DUO3 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/47231/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="53832" tvg-logo="http://epg.propg.net/img/channel_icons/53832.png" ,DUO6 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/53832/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="87383" tvg-logo="http://epg.propg.net/img/channel_icons/87383.png" ,DUO5 LV/LT
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/87383/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="19987" tvg-logo="http://epg.propg.net/img/channel_icons/19987.png" ,Канал 7 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19987/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="84992" tvg-logo="http://epg.propg.net/img/channel_icons/84992.png" ,Кино 7 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/84992/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="19510" tvg-logo="http://epg.propg.net/img/channel_icons/19510.png" ,FilmZone HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19510/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="19521" tvg-logo="http://epg.propg.net/img/channel_icons/19521.png" ,FilmZone+ HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19521/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="44864" tvg-logo="http://epg.propg.net/img/channel_icons/44864.png" ,EPIC Drama HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/44864/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="26384" tvg-logo="http://epg.propg.net/img/channel_icons/26384.png" ,FX Life HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/26384/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="52276" tvg-logo="http://epg.propg.net/img/channel_icons/52276.png" ,FX HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/52276/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="12760" tvg-logo="http://epg.propg.net/img/channel_icons/12760.png" ,RED
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/12760/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="48273" tvg-logo="http://epg.propg.net/img/channel_icons/48273.png" ,RED HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/48273/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="112" tvg-logo="http://epg.propg.net/img/channel_icons/112.png" ,Black
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/112/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="111" tvg-logo="http://epg.propg.net/img/channel_icons/111.png" ,Sci-Fi
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/111/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="35439" tvg-logo="http://epg.propg.net/img/channel_icons/35439.png" ,Hollywood
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/35439/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="48359" tvg-logo="http://epg.propg.net/img/channel_icons/48359.png" ,Hollywood HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/48359/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="14210" tvg-logo="http://epg.propg.net/img/channel_icons/14210.png" ,Кино ТВ
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/14210/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="63972" tvg-logo="http://epg.propg.net/img/channel_icons/63972.png" ,Кино ТВ HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/63972/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="20" tvg-logo="http://epg.propg.net/img/channel_icons/20.png" ,Cinema
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/20/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="47662" tvg-logo="http://epg.propg.net/img/channel_icons/47662.png" ,Cinema HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/47662/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="34283" tvg-logo="http://epg.propg.net/img/channel_icons/34283.png" ,Любимое кино
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/34283/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="42" tvg-logo="http://epg.propg.net/img/channel_icons/42.png" ,Мир сериала
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/42/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="91" tvg-logo="http://epg.propg.net/img/channel_icons/91.png" , Роман
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/91/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="66" tvg-logo="http://epg.propg.net/img/channel_icons/66.png" ,Детектив
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/66/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="120" tvg-logo="http://epg.propg.net/img/channel_icons/120.png" ,Бестселлер
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/120/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="11093" tvg-logo="http://epg.propg.net/img/channel_icons/11093.png" ,Комедия
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/11093/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="98" tvg-logo="http://epg.propg.net/img/channel_icons/98.png" ,Иллюзион
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/98/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="88" tvg-logo="http://epg.propg.net/img/channel_icons/88.png" ,Иллюзион +
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/88/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="63879" tvg-logo="http://epg.propg.net/img/channel_icons/63879.png" ,Star Cinema
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/63879/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="78290" tvg-logo="http://epg.propg.net/img/channel_icons/78290.png" ,Star Family
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/78290/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="67781" tvg-logo="http://epg.propg.net/img/channel_icons/67781.png" ,Феникс + Кино
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/67781/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="48391" tvg-logo="http://epg.propg.net/img/channel_icons/48391.png" ,Start World
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/48391/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="61094" tvg-logo="http://epg.propg.net/img/channel_icons/61094.png" ,Start Air
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/61094/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="81943" tvg-logo="http://epg.propg.net/img/channel_icons/81943.png" ,Filmbox
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/81943/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="31738" tvg-logo="http://epg.propg.net/img/channel_icons/31738.png" ,Еврокино
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/31738/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="11083" tvg-logo="http://epg.propg.net/img/channel_icons/11083.png" ,Дорама
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/11083/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="13" tvg-logo="http://epg.propg.net/img/channel_icons/13.png" ,ТВ 21
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/13/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="21653" tvg-logo="http://epg.propg.net/img/channel_icons/21653.png" ,Киноман
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/21653/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="54938" tvg-logo="http://epg.propg.net/img/channel_icons/54938.png" ,Время далекое и близкое
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/54938/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="29428" tvg-logo="http://epg.propg.net/img/channel_icons/29428.png" ,AMC
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/29428/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="37639" tvg-logo="http://epg.propg.net/img/channel_icons/37639.png" ,FilmUA Drama CEE
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/37639/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="84903" tvg-logo="http://epg.propg.net/img/channel_icons/84903.png" ,Shot TV
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/84903/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="53645" tvg-logo="http://epg.propg.net/img/channel_icons/53645.png" ,FlixShip
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/53645/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="93594" tvg-logo="http://epg.propg.net/img/channel_icons/93594.png" ,НСТ
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93594/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="33994" tvg-logo="http://epg.propg.net/img/channel_icons/33994.png" ,ULTRAHD CINEMA UHD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/33994/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="44332" tvg-logo="http://epg.propg.net/img/channel_icons/44332.png" ,Кино UHD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/44332/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="28469" tvg-logo="http://epg.propg.net/img/channel_icons/28469.png" ,Кинохит HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/28469/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="58257" tvg-logo="http://epg.propg.net/img/channel_icons/58257.png" ,Киносемья HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/58257/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="42846" tvg-logo="http://epg.propg.net/img/channel_icons/42846.png" ,Киномикс HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/42846/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="42717" tvg-logo="http://epg.propg.net/img/channel_icons/42717.png" ,Киносвидание HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/42717/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="45342" tvg-logo="http://epg.propg.net/img/channel_icons/45342.png" ,Мужское Кино HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/45342/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="31650" tvg-logo="http://epg.propg.net/img/channel_icons/31650.png" ,Наше Новое Кино HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/31650/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="48332" tvg-logo="http://epg.propg.net/img/channel_icons/48332.png" ,Кинокомедия HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/48332/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="27639" tvg-logo="http://epg.propg.net/img/channel_icons/27639.png" ,Киносерия HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/27639/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="34752" tvg-logo="http://epg.propg.net/img/channel_icons/34752.png" ,Киноужас HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/34752/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="51061" tvg-logo="http://epg.propg.net/img/channel_icons/51061.png" ,Страшное HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/51061/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="46287" tvg-logo="http://epg.propg.net/img/channel_icons/46287.png" ,Viju TV1000 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/46287/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="28397" tvg-logo="http://epg.propg.net/img/channel_icons/28397.png" ,Viju TV1000 Action HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/28397/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="57294" tvg-logo="http://epg.propg.net/img/channel_icons/57294.png" ,Viju TV1000 Русское HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/57294/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="1660" tvg-logo="http://epg.propg.net/img/channel_icons/1660.png" ,Премиальное HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/1660/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="1661" tvg-logo="http://epg.propg.net/img/channel_icons/1661.png" ,Остросюжетное HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/1661/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="1666" tvg-logo="http://epg.propg.net/img/channel_icons/1666.png" ,Шокирующее HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/1666/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="1667" tvg-logo="http://epg.propg.net/img/channel_icons/1667.png" ,Комедийное HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/1667/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="1664" tvg-logo="http://epg.propg.net/img/channel_icons/1664.png" ,Наше HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/1664/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="61727" tvg-logo="http://epg.propg.net/img/channel_icons/61727.png" ,Блокбастер HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/61727/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="1662" tvg-logo="http://epg.propg.net/img/channel_icons/1662.png" ,Душевное HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/1662/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="32951" tvg-logo="http://epg.propg.net/img/channel_icons/32951.png" ,Наше мужское HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/32951/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="17543" tvg-logo="http://epg.propg.net/img/channel_icons/17543.png" ,Кинопоказ HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/17543/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="27483" tvg-logo="http://epg.propg.net/img/channel_icons/27483.png" ,Наш Кинопоказ HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/27483/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="35481" tvg-logo="http://epg.propg.net/img/channel_icons/35481.png" ,Камеди HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/35481/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="32849" tvg-logo="http://epg.propg.net/img/channel_icons/32849.png" ,Про Любовь
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/32849/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="46927" tvg-logo="http://epg.propg.net/img/channel_icons/46927.png" ,Хит HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/46927/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="31421" tvg-logo="http://epg.propg.net/img/channel_icons/31421.png" ,Любимое HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/31421/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="39446" tvg-logo="http://epg.propg.net/img/channel_icons/39446.png" ,Романтичное HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/39446/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="71054" tvg-logo="http://epg.propg.net/img/channel_icons/71054.png" ,Лавстори HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/71054/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="74630" tvg-logo="http://epg.propg.net/img/channel_icons/74630.png" ,Bolt Int.
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/74630/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="27303" tvg-logo="http://epg.propg.net/img/channel_icons/27303.png" ,Bolt UA
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/27303/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="19640" tvg-logo="http://epg.propg.net/img/channel_icons/19640.png" ,Золотая коллекция
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19640/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="83621" tvg-logo="http://epg.propg.net/img/channel_icons/83621.png" ,Советская Кинокласика HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/83621/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="7" catchup-days="7" group-title="Досуг ТВ Кино и Сериалы" tvg-id="27947" tvg-logo="http://epg.propg.net/img/channel_icons/27947.png" ,Роман HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/27947/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="34074" tvg-logo="http://epg.propg.net/img/channel_icons/34074.png" ,Иллюзион HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/34074/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="61052" tvg-logo="http://epg.propg.net/img/channel_icons/61052.png" ,Иллюзион+ HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/61052/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="11052" tvg-logo="http://epg.propg.net/img/channel_icons/11052.png" ,Bollywood HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/11052/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="27553" tvg-logo="http://epg.propg.net/img/channel_icons/27553.png" ,Еврокино HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/27553/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="61884" tvg-logo="http://epg.propg.net/img/channel_icons/61884.png" ,Kinoliving HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/61884/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="27630" tvg-logo="http://epg.propg.net/img/channel_icons/27630.png" ,Кинеко HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/27630/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="63829" tvg-logo="http://epg.propg.net/img/channel_icons/63829.png" ,9-1-1
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/63829/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="53962" tvg-logo="http://epg.propg.net/img/channel_icons/53962.png" ,Plan_B
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/53962/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="33882" tvg-logo="http://epg.propg.net/img/channel_icons/33882.png" ,Scream
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/33882/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="37475" tvg-logo="http://epg.propg.net/img/channel_icons/37475.png" ,FAN
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/37475/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="43992" tvg-logo="http://epg.propg.net/img/channel_icons/43992.png" ,VHS-ka HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/43992/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ Кино и Сериалы" tvg-id="39038" tvg-logo="http://epg.propg.net/img/channel_icons/39038.png" ,FilmUA Drama HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/39038/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="48742" tvg-logo="http://epg.propg.net/img/channel_icons/48742.png" ,Kion Хит
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/48742/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="53524" tvg-logo="http://epg.propg.net/img/channel_icons/53524.png" ,Окко ТВ
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/53524/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="34725" tvg-logo="http://epg.propg.net/img/channel_icons/34725.png" ,KinoJam 1
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/34725/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="27593" tvg-logo="http://epg.propg.net/img/channel_icons/27593.png" ,KinoJam 2
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/27593/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="54332" tvg-logo="http://epg.propg.net/img/channel_icons/54332.png" ,DetectiveJam
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/54332/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ Кино и Сериалы" tvg-id="39003" tvg-logo="http://epg.propg.net/img/channel_icons/39003.png" ,FamilyJam
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/39003/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="53382" tvg-logo="http://epg.propg.net/img/channel_icons/53382.png" ,CineMan
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/53382/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="63846" tvg-logo="http://epg.propg.net/img/channel_icons/63846.png" ,Cineman Action
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/63846/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="53874" tvg-logo="http://epg.propg.net/img/channel_icons/53874.png" ,Cineman Катастрофы
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/53874/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="45284" tvg-logo="http://epg.propg.net/img/channel_icons/45284.png" ,CineMan Thriller
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/45284/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="29842" tvg-logo="http://epg.propg.net/img/channel_icons/29842.png" ,CineMan Top
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/29842/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="47931" tvg-logo="http://epg.propg.net/img/channel_icons/47931.png" ,CineMan Marvel
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/47931/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="47298" tvg-logo="http://epg.propg.net/img/channel_icons/47298.png" ,CineMan Ужасы
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/47298/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="64557" tvg-logo="http://epg.propg.net/img/channel_icons/64557.png" ,CineMan Комедия
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/64557/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="35582" tvg-logo="http://epg.propg.net/img/channel_icons/35582.png" ,Cineman Мелодрама
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/35582/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="52239" tvg-logo="http://epg.propg.net/img/channel_icons/52239.png" ,Cineman MiniSeries
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/52239/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="30448" tvg-logo="http://epg.propg.net/img/channel_icons/30448.png" ,CineMan Premium
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/30448/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="59429" tvg-logo="http://epg.propg.net/img/channel_icons/59429.png" ,CineMan VHS
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/59429/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="27445" tvg-logo="http://epg.propg.net/img/channel_icons/27445.png" ,CineMan РуКино
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/27445/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="69286" tvg-logo="http://epg.propg.net/img/channel_icons/69286.png" ,Cineman СССР
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/69286/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="63729" tvg-logo="http://epg.propg.net/img/channel_icons/63729.png" ,Cineman Дубляж СССР
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/63729/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="62337" tvg-logo="http://epg.propg.net/img/channel_icons/62337.png" ,CineMan Сваты
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/62337/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="28488" tvg-logo="http://epg.propg.net/img/channel_icons/28488.png" ,CineMan Пес Лихач
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/28488/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="37746" tvg-logo="http://epg.propg.net/img/channel_icons/37746.png" ,CineMan Лесник
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/37746/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="45271" tvg-logo="http://epg.propg.net/img/channel_icons/45271.png" ,CineMan Ментовские войны
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/45271/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="62853" tvg-logo="http://epg.propg.net/img/channel_icons/62853.png" ,CineMan Криминальные Сериалы
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/62853/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="52947" tvg-logo="http://epg.propg.net/img/channel_icons/52947.png" ,Cineman Военные сериалы
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/52947/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="64376" tvg-logo="http://epg.propg.net/img/channel_icons/64376.png" ,CineMan Комедийные Сериалы
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/64376/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="56632" tvg-logo="http://epg.propg.net/img/channel_icons/56632.png" ,CineMan Скорая Помощь
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/56632/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="61632" tvg-logo="http://epg.propg.net/img/channel_icons/61632.png" ,Cineman OLD 4K
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/61632/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="56216" tvg-logo="http://epg.propg.net/img/channel_icons/56216.png" ,Cineman СССР 4K
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/56216/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="87428" tvg-logo="http://epg.propg.net/img/channel_icons/87428.png" ,Fresh Premiere
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/87428/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="89310" tvg-logo="http://epg.propg.net/img/channel_icons/89310.png" ,Fresh Cinema
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/89310/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="87295" tvg-logo="http://epg.propg.net/img/channel_icons/87295.png" ,Fresh Adventure
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/87295/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="79274" tvg-logo="http://epg.propg.net/img/channel_icons/79274.png" ,Fresh Fantastic
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/79274/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="86727" tvg-logo="http://epg.propg.net/img/channel_icons/86727.png" ,Fresh Comedy
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/86727/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="88549" tvg-logo="http://epg.propg.net/img/channel_icons/88549.png" ,Fresh Family
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/88549/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="89664" tvg-logo="http://epg.propg.net/img/channel_icons/89664.png" ,Fresh Romantic
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/89664/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="82839" tvg-logo="http://epg.propg.net/img/channel_icons/82839.png" ,Fresh Rating
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/82839/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="81847" tvg-logo="http://epg.propg.net/img/channel_icons/81847.png" ,Fresh Thriller
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/81847/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="74875" tvg-logo="http://epg.propg.net/img/channel_icons/74875.png" ,Fresh Horror
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/74875/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="75819" tvg-logo="http://epg.propg.net/img/channel_icons/75819.png" ,Fresh Series
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/75819/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="73957" tvg-logo="http://epg.propg.net/img/channel_icons/73957.png" ,Fresh VHS
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/73957/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="69446" tvg-logo="http://epg.propg.net/img/channel_icons/69446.png" ,Fresh Russian
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/69446/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="61859" tvg-logo="http://epg.propg.net/img/channel_icons/61859.png" ,Fresh Soviet
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/61859/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="19462" tvg-logo="http://epg.propg.net/img/channel_icons/19462.png" ,BCU Media HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19462/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="62449" tvg-logo="http://epg.propg.net/img/channel_icons/62449.png" ,BCU Media 2 HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/62449/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="62817" tvg-logo="http://epg.propg.net/img/channel_icons/62817.png" ,BCU Media 3 HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/62817/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19015" tvg-logo="http://epg.propg.net/img/channel_icons/19015.png" ,BCU Action HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19015/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19012" tvg-logo="http://epg.propg.net/img/channel_icons/19012.png" ,BCU Fantastic HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19012/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19017" tvg-logo="http://epg.propg.net/img/channel_icons/19017.png" ,BCU Catastrophe HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19017/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19040" tvg-logo="http://epg.propg.net/img/channel_icons/19040.png" ,BCU Reality HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19040/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19016" tvg-logo="http://epg.propg.net/img/channel_icons/19016.png" ,BCU Premiere HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19016/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19011" tvg-logo="http://epg.propg.net/img/channel_icons/19011.png" ,BCU Marvel HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19011/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19014" tvg-logo="http://epg.propg.net/img/channel_icons/19014.png" ,BCU FilMystic HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19014/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19013" tvg-logo="http://epg.propg.net/img/channel_icons/19013.png" ,BCU Comedy HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19013/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19028" tvg-logo="http://epg.propg.net/img/channel_icons/19028.png" ,BCU Cinema HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19028/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19027" tvg-logo="http://epg.propg.net/img/channel_icons/19027.png" ,BCU Cinema+ HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19027/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19022" tvg-logo="http://epg.propg.net/img/channel_icons/19022.png" ,BCU History HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19022/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="92716" tvg-logo="http://epg.propg.net/img/channel_icons/92716.png" ,BCU Biography HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/92716/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="59882" tvg-logo="http://epg.propg.net/img/channel_icons/59882.png" ,BCU Criminal HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/59882/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19023" tvg-logo="http://epg.propg.net/img/channel_icons/19023.png" ,BCU Stars HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19023/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="63772" tvg-logo="http://epg.propg.net/img/channel_icons/63772.png" ,BCU Survival HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/63772/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19383" tvg-logo="http://epg.propg.net/img/channel_icons/19383.png" ,BCU Cosmo HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19383/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="26739" tvg-logo="http://epg.propg.net/img/channel_icons/26739.png" ,BCU TruMotion HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/26739/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19024" tvg-logo="http://epg.propg.net/img/channel_icons/19024.png" ,BCU Romantic HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19024/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19026" tvg-logo="http://epg.propg.net/img/channel_icons/19026.png" ,BCU Кинорейтинг HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19026/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19019" tvg-logo="http://epg.propg.net/img/channel_icons/19019.png" ,BCU VHS HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19019/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19018" tvg-logo="http://epg.propg.net/img/channel_icons/19018.png" ,BCU Russian HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19018/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19030" tvg-logo="http://epg.propg.net/img/channel_icons/19030.png" ,BCU RUSerial HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19030/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19029" tvg-logo="http://epg.propg.net/img/channel_icons/19029.png" ,BCU СССР HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19029/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="19036" tvg-logo="http://epg.propg.net/img/channel_icons/19036.png" ,BCU Сваты HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19036/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="19031" tvg-logo="http://epg.propg.net/img/channel_icons/19031.png" ,BCU Premiere 1 HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19031/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="19032" tvg-logo="http://epg.propg.net/img/channel_icons/19032.png" ,BCU Premiere 2 HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19032/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="19033" tvg-logo="http://epg.propg.net/img/channel_icons/19033.png" ,BCU Premiere 3 HDR
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19033/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19038" tvg-logo="http://epg.propg.net/img/channel_icons/19038.png" ,BCU Ultra 4K
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19038/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="19039" tvg-logo="http://epg.propg.net/img/channel_icons/19039.png" ,BCU Ultra 4K
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19039/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="33691" tvg-logo="http://epg.propg.net/img/channel_icons/33691.png" ,Premiere HD 1
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/33691/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="29539" tvg-logo="http://epg.propg.net/img/channel_icons/29539.png" ,Premiere HD 2
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/29539/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="47394" tvg-logo="http://epg.propg.net/img/channel_icons/47394.png" ,Premiere HD 3
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/47394/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="52961" tvg-logo="http://epg.propg.net/img/channel_icons/52961.png" ,Premiere HD 4
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/52961/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="19547" tvg-logo="http://epg.propg.net/img/channel_icons/19547.png" ,Premium HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19547/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="34745" tvg-logo="http://epg.propg.net/img/channel_icons/34745.png" ,VHS HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/34745/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="47342" tvg-logo="http://epg.propg.net/img/channel_icons/47342.png" ,USSR HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/47342/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="27743" tvg-logo="http://epg.propg.net/img/channel_icons/27743.png" ,INSOMNIA HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/27743/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="19677" tvg-logo="http://epg.propg.net/img/channel_icons/19677.png" ,THRILLER HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19677/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="64127" tvg-logo="http://epg.propg.net/img/channel_icons/64127.png" ,SERIAL HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/64127/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="19550" tvg-logo="http://epg.propg.net/img/channel_icons/19550.png" ,Premiere  HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19550/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="19551" tvg-logo="http://epg.propg.net/img/channel_icons/19551.png" ,PARADISE HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19551/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="47349" tvg-logo="http://epg.propg.net/img/channel_icons/47349.png" ,PARADOX HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/47349/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="19549" tvg-logo="http://epg.propg.net/img/channel_icons/19549.png" ,RUKINO HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/19549/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="65234" tvg-logo="http://epg.propg.net/img/channel_icons/65234.png" ,VICTORY HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/65234/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="42852" tvg-logo="http://epg.propg.net/img/channel_icons/42852.png" ,PRIME HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/42852/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="93635" tvg-logo="http://epg.propg.net/img/channel_icons/93635.png" ,MM NewFilm 1 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93635/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="95450" tvg-logo="http://epg.propg.net/img/channel_icons/95450.png" ,MM NewFilm 2 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95450/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="97427" tvg-logo="http://epg.propg.net/img/channel_icons/97427.png" ,MM NewFilm 3 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97427/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Досуг ТВ-Кинозалы " tvg-id="91639" tvg-logo="http://epg.propg.net/img/channel_icons/91639.png" ,MM NewFilm RU HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/91639/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="95384" tvg-logo="http://epg.propg.net/img/channel_icons/95384.png" ,MM Classic HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95384/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="91978" tvg-logo="http://epg.propg.net/img/channel_icons/91978.png" ,MM Боевик Classic HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/91978/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="90847" tvg-logo="http://epg.propg.net/img/channel_icons/90847.png" ,MM Комедия Classic HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/90847/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="94982" tvg-logo="http://epg.propg.net/img/channel_icons/94982.png" ,MM Ужасы Classic HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94982/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="94814" tvg-logo="http://epg.propg.net/img/channel_icons/94814.png" ,MM Боевик HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94814/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="92395" tvg-logo="http://epg.propg.net/img/channel_icons/92395.png" ,MM Криминал HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/92395/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="94288" tvg-logo="http://epg.propg.net/img/channel_icons/94288.png" ,MM Триллер HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94288/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="97768" tvg-logo="http://epg.propg.net/img/channel_icons/97768.png" ,MM Приключения HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97768/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="97663" tvg-logo="http://epg.propg.net/img/channel_icons/97663.png" ,MM Катастрофа HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97663/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="95639" tvg-logo="http://epg.propg.net/img/channel_icons/95639.png" ,MM Фантастика HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95639/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="90542" tvg-logo="http://epg.propg.net/img/channel_icons/90542.png" ,MM Драма HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/90542/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="95309" tvg-logo="http://epg.propg.net/img/channel_icons/95309.png" ,MM Комедия HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95309/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="94998" tvg-logo="http://epg.propg.net/img/channel_icons/94998.png" ,MM Семейный 1 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94998/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="95534" tvg-logo="http://epg.propg.net/img/channel_icons/95534.png" ,MM Семейный 2 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/95534/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="97419" tvg-logo="http://epg.propg.net/img/channel_icons/97419.png" ,MM Celebrity HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97419/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="91748" tvg-logo="http://epg.propg.net/img/channel_icons/91748.png" ,MM Кинофестиваль HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/91748/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="90832" tvg-logo="http://epg.propg.net/img/channel_icons/90832.png" ,MM Translation HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/90832/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="90962" tvg-logo="http://epg.propg.net/img/channel_icons/90962.png" ,MM Ужасы HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/90962/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="91152" tvg-logo="http://epg.propg.net/img/channel_icons/91152.png" ,MM Ужастик HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/91152/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="94244" tvg-logo="http://epg.propg.net/img/channel_icons/94244.png" ,MM Затмение HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94244/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="93721" tvg-logo="http://epg.propg.net/img/channel_icons/93721.png" ,MM Погружение HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93721/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="91175" tvg-logo="http://epg.propg.net/img/channel_icons/91175.png" ,MM История HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/91175/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="91228" tvg-logo="http://epg.propg.net/img/channel_icons/91228.png" ,MM Love HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/91228/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="93886" tvg-logo="http://epg.propg.net/img/channel_icons/93886.png" ,MM 007 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93886/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="91159" tvg-logo="http://epg.propg.net/img/channel_icons/91159.png" ,MM Скорость HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/91159/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="90993" tvg-logo="http://epg.propg.net/img/channel_icons/90993.png" ,MM Крутые 90-е HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/90993/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="97662" tvg-logo="http://epg.propg.net/img/channel_icons/97662.png" ,MM Супергерои HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97662/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="94483" tvg-logo="http://epg.propg.net/img/channel_icons/94483.png" ,MM Спорт HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94483/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="93361" tvg-logo="http://epg.propg.net/img/channel_icons/93361.png" ,MM Агата Кристи HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93361/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="93558" tvg-logo="http://epg.propg.net/img/channel_icons/93558.png" ,MM Стивен Кинг HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93558/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="99226" tvg-logo="http://epg.propg.net/img/channel_icons/99226.png" ,MM UFO HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/99226/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="97735" tvg-logo="http://epg.propg.net/img/channel_icons/97735.png" ,MM Мифология HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97735/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="93351" tvg-logo="http://epg.propg.net/img/channel_icons/93351.png" ,MM Фобия HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93351/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="92261" tvg-logo="http://epg.propg.net/img/channel_icons/92261.png" ,MM Киберпанк HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/92261/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="98992" tvg-logo="http://epg.propg.net/img/channel_icons/98992.png" ,MM Кунг-Фу HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/98992/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="93362" tvg-logo="http://epg.propg.net/img/channel_icons/93362.png" ,MM Нуар HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93362/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="93369" tvg-logo="http://epg.propg.net/img/channel_icons/93369.png" ,MM Синематограф HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93369/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="97740" tvg-logo="http://epg.propg.net/img/channel_icons/97740.png" ,MM Вестерн HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97740/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="93799" tvg-logo="http://epg.propg.net/img/channel_icons/93799.png" ,MM Грайндхаус HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93799/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="98367" tvg-logo="http://epg.propg.net/img/channel_icons/98367.png" ,MM Роскино HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/98367/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="93173" tvg-logo="http://epg.propg.net/img/channel_icons/93173.png" ,MM USSR Драма HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/93173/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="94819" tvg-logo="http://epg.propg.net/img/channel_icons/94819.png" ,MM USSR Детектив HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94819/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="97257" tvg-logo="http://epg.propg.net/img/channel_icons/97257.png" ,MM USSR Приключения HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/97257/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="94713" tvg-logo="http://epg.propg.net/img/channel_icons/94713.png" ,MM USSR Комедия HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/94713/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="98226" tvg-logo="http://epg.propg.net/img/channel_icons/98226.png" ,MM USSR 1941-1945 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/98226/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="90836" tvg-logo="http://epg.propg.net/img/channel_icons/90836.png" ,MM Полицейский с Рублёвки HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/90836/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="98391" tvg-logo="http://epg.propg.net/img/channel_icons/98391.png" ,MM Воронины HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/98391/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="99358" tvg-logo="http://epg.propg.net/img/channel_icons/99358.png" ,MM Ситком HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/99358/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="99677" tvg-logo="http://epg.propg.net/img/channel_icons/99677.png" ,MM Ситком 2.0 HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/99677/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="92817" tvg-logo="http://epg.propg.net/img/channel_icons/92817.png" ,MM OldSchool HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/92817/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="83228" tvg-logo="http://epg.propg.net/img/channel_icons/83228.png" ,MM Сваты HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/83228/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="76353" tvg-logo="http://epg.propg.net/img/channel_icons/76353.png" ,MM Квартирник HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/76353/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="98276" tvg-logo="http://epg.propg.net/img/channel_icons/98276.png" ,MM Flip 4K
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/98276/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="82681" tvg-logo="http://epg.propg.net/img/channel_icons/82681.png" ,MS PRISONS HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/82681/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="70831" tvg-logo="http://epg.propg.net/img/channel_icons/70831.png" ,MS ANIMATED HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/70831/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="82729" tvg-logo="http://epg.propg.net/img/channel_icons/82729.png" ,MS YOUNG BLOOD HD
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/82729/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="73618" tvg-logo="http://epg.propg.net/img/channel_icons/73618.png" ,MS MAGIC 4K
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/73618/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="63672" tvg-logo="http://epg.propg.net/img/channel_icons/63672.png" ,GL Brief
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/63672/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="73629" tvg-logo="http://epg.propg.net/img/channel_icons/73629.png" ,GL Evidence
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/73629/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="99005" tvg-logo="http://epg.propg.net/img/channel_icons/99005.png" ,GL Exist
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/99005/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="83671" tvg-logo="http://epg.propg.net/img/channel_icons/83671.png" ,GL Island
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/83671/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="59281" tvg-logo="http://epg.propg.net/img/channel_icons/59281.png" ,GL Голые и cмешные
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/59281/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="42838" tvg-logo="http://epg.propg.net/img/channel_icons/42838.png" ,GL Psycho
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/42838/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="86527" tvg-logo="http://epg.propg.net/img/channel_icons/86527.png" ,GL Сериалы
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/86527/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="66321" tvg-logo="http://epg.propg.net/img/channel_icons/66321.png" ,GL Survival
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/66321/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="52739" tvg-logo="http://epg.propg.net/img/channel_icons/52739.png" ,GL Chef
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/52739/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="63832" tvg-logo="http://epg.propg.net/img/channel_icons/63832.png" ,GL Hostage
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/63832/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="62729" tvg-logo="http://epg.propg.net/img/channel_icons/62729.png" ,GL Girlfight
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/62729/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Досуг ТВ-Кинозалы " tvg-id="73652" tvg-logo="http://epg.propg.net/img/channel_icons/73652.png" ,GL Motivation
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/73652/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="0" catchup-days="0" group-title="Досуг ТВ-Кинозалы " tvg-id="81626" tvg-logo="http://epg.propg.net/img/channel_icons/81626.png" ,GL. VHS
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/81626/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="83351" tvg-logo="http://epg.propg.net/img/channel_icons/83351.png" ,GL Детектив
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/83351/hlsx/pl.m3u8
+#EXTINF:-1 tvg-rec="2" catchup-days="2" group-title="Досуг ТВ-Кинозалы " tvg-id="62781" tvg-logo="http://epg.propg.net/img/channel_icons/62781.png" ,GL Невский
+http://rr2.tvdosug.net/~201af66d572197816b137775813348e2276/62781/hlsx/pl.m3u8
