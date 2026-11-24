@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦22.11.2026|04-40|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦24.11.2026|12-50|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -7,6 +7,8 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:0  tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml"  tvg-name="Film TV Kids" group-title="CHILDREN'S 🧙" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVKIDS.png",Film TV Kids
 https://ottiptvfilmtvgroup.zapto.org:8080/FilmTVKids/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Tom and Jerry
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="CHILDREN'S 🧙",GrandF TV Масяня
 http://62.141.35.207:8080/masiana/video.m3u8?token=WDJ_ON27CzbeN2
 #EXTINF:-1 group-title="CHILDREN'S 🧙",Кнопка ТВ
