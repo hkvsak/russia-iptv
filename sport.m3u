@@ -336,6 +336,31 @@ http://213.91.179.28:8000/play/a08f
 http://213.91.179.28:8000/play/a05n
 
 
+#EXTINF:1 grouptitle="Polsat Sport" ,Polsat Sport HD
+http://46.149.222.219:18002/polsatsporthd
+#EXTINF:1 grouptitle="Polsat Sport" ,Polsat Sport 2
+http://46.149.222.219:18002/polsatsport2hd
+#EXTINF:1 grouptitle="Polsat Sport" ,Canal+ Sport HD
+http://46.149.222.219:18002/canalplussporthd
+#EXTINF:1 grouptitle="Polsat Sport" ,Canal + Sport 2 HD
+http://46.149.222.219:18002/canalplussport2hd
+#EXTINF:1 grouptitle="Polsat Sport" ,Polsat Sport Premium 1
+http://46.149.222.219:18002/polsatsportpremium1
+#EXTINF:1 grouptitle="Polsat Sport" ,Polsat Sport Premium 2
+http://46.149.222.219:18002/polsatsportpremium2
+#EXTINF:1 grouptitle="Polsat Sport" ,Polsat Sport Fight HD
+http://46.149.222.219:18002/polsatsportfighthd
+#EXTINF:1 grouptitle="Polsat Sport" ,TVP Sport HD
+http://46.149.222.219:18002/tvpsporthd
+#EXTINF:1 grouptitle="Polsat Sport" ,Polsat Sport Extra HD
+http://46.149.222.219:18002/polsatsportextrahd
+#EXTINF:1 grouptitle="Polsat Sport" ,Polsat Sport News HD
+http://46.149.222.219:18002/polsatsportnewshd
+#EXTINF:1 grouptitle="Polsat Sport" ,Eurosport 1
+http://46.149.222.219:18002/eurosport1hd
+#EXTINF:1 grouptitle="Polsat Sport" ,Eurosport 2
+http://46.149.222.219:18002/eurosport2hd
+
 #EXTINF:-1 tvg-id="БОКС ТВ" group-title="Спорт"  tvg-logo="https://icon.uspeh.my/icon/%D0%91%D0%BE%D0%BA%D1%81%20%D0%A2%D0%92%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8201/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", БОКС ТВ
 https://live.uspeh.my/8201/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="МАТЧ!" group-title="Спорт"  tvg-logo="https://icon.uspeh.my/icon/%D0%9C%D0%90%D0%A2%D0%A7!%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8016/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", МАТЧ!
