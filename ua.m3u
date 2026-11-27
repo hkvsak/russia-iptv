@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦24.11.2026|12-50|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1,🛠Ревизия №-1 🚦27.11.2026|16-00|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 
 #EXTINF:-1,ПЕРШИЙ HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
@@ -570,72 +570,306 @@ https://live.uspeh.my/8234/video.m3u8?token=B4N8unVvzL6JRCuk
 https://live.uspeh.my/8235/video.m3u8?token=B4N8unVvzL6JRCuk
 
 
-#EXTINF:-1 tvg-id="Перший HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/UA%20%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8273/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Перший HD UA
-https://live.uspeh.my/8273/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Прямий HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9F%D1%80%D1%8F%D0%BC%D0%B8%D0%B9%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8284/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Прямий HD UA
-https://live.uspeh.my/8284/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="1+1 Україна HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/1+1%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8482/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", 1+1 Україна HD UA
-https://live.uspeh.my/8482/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="1+1 МАРАФОН HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/1+1%20%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%20HD%20UA.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8116/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", 1+1 МАРАФОН HD UA
-https://live.uspeh.my/8116/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="2+2 HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/2+2%20HD%20UA.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8117/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", 2+2 HD UA
-https://live.uspeh.my/8117/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ICTV 2 HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/ICTV%202%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8077/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", CTV  HD UA
-https://live.uspeh.my/8077/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ДІМ HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%94%D1%96%D0%BC%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8211/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", ДІМ HD UA
-https://live.uspeh.my/8211/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="5 канал HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/5%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8093/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", 5 канал HD UA
-https://live.uspeh.my/8093/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="8 канал HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20HD%20UA.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8334/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", 8 канал HD UA
-https://live.uspeh.my/8334/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Еспресо HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%AD%D1%81%D0%BF%D1%80%D0%B5%D1%81%D0%BE%20TV%20UA.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8243/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Еспресо HD UA
-https://live.uspeh.my/8243/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="Перший HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/UA%20%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8273/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Перший HD UA
+https://live.uspeh.my/8273/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Прямий HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9F%D1%80%D1%8F%D0%BC%D0%B8%D0%B9%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8284/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Прямий HD UA
+https://live.uspeh.my/8284/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="1+1 Україна HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/1+1%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8482/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="3", 1+1 Україна HD UA
+https://live.uspeh.my/8482/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="1+1 МАРАФОН HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/1+1%20%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%20HD%20UA.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8116/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", 1+1 МАРАФОН HD UA
+https://live.uspeh.my/8116/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="2+2 HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/2+2%20HD%20UA.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8117/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", 2+2 HD UA
+https://live.uspeh.my/8117/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="ICTV 2 HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/ICTV%202%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8077/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", CTV  HD UA
+https://live.uspeh.my/8077/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="ДІМ HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%94%D1%96%D0%BC%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8211/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="3", ДІМ HD UA
+https://live.uspeh.my/8211/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="5 канал HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/5%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8093/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", 5 канал HD UA
+https://live.uspeh.my/8093/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="8 канал HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/8%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20HD%20UA.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8334/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", 8 канал HD UA
+https://live.uspeh.my/8334/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Еспресо HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%AD%D1%81%D0%BF%D1%80%D0%B5%D1%81%D0%BE%20TV%20UA.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8243/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Еспресо HD UA
+https://live.uspeh.my/8243/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="24 канал HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%2024%20HD.png" catchup-days="0", 24 канал HD UA
-https://live.uspeh.my/8344/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="FREEДОМ HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/FREE%D0%94%D0%9E%D0%9C%20UATV.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8540/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", FREEДОМ HD UA
-https://live.uspeh.my/8540/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="RAZ 3 UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/raz.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8345/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", RAZ 3 UA
-https://live.uspeh.my/8345/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/8344/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="FREEДОМ HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/FREE%D0%94%D0%9E%D0%9C%20UATV.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8540/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", FREEДОМ HD UA
+https://live.uspeh.my/8540/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="RAZ 3 UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/raz.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8345/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", RAZ 3 UA
+https://live.uspeh.my/8345/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="ОЦЕ UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9E%D0%A6%D0%95%20HD.png" catchup-days="0", ОЦЕ UA
-https://live.uspeh.my/9324/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9324/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="К1 HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9A1.png" catchup-days="0", К1 HD UA
-https://live.uspeh.my/9325/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9325/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="К2 HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9A2.png" catchup-days="0", К2 HD UA
-https://live.uspeh.my/9326/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9326/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="Zoom HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/Zoom%20HD.png" catchup-days="0", Zoom HD UA
-https://live.uspeh.my/9332/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9332/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="Enter-фільм HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/Enter-%D1%84%D1%96%D0%BB%D1%8C%D0%BC%20HD%20UA.png" catchup-days="0", Enter-фільм HD UA
-https://live.uspeh.my/9327/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9327/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="Бігуді UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%91%D1%96%D0%B3%D1%83%D0%B4%D1%96%20UA.png" catchup-days="0", Бігуді UA
-https://live.uspeh.my/9328/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9328/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="Bolt HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/BOLT%20HD.png" catchup-days="0", Bolt HD UA
-https://live.uspeh.my/9329/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9329/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="Star Cinema HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/Star%20Cinema%20HD%20UA.png" catchup-days="0", Star Cinema HD UA
-https://live.uspeh.my/9330/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Інтер HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%98%D0%BD%D1%82%D0%B5%D1%80%20UA.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8089/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Інтер HD UA
-https://live.uspeh.my/8089/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9330/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Інтер HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%98%D0%BD%D1%82%D0%B5%D1%80%20UA.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8089/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Інтер HD UA
+https://live.uspeh.my/8089/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="Рада HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%A0%D0%B0%D0%B4%D0%B0%20HD.png" catchup-days="0", Рада HD UA
-https://live.uspeh.my/8347/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="СТБ HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%A1%D0%A2%D0%91%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8090/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", ТБ HD UA
-https://live.uspeh.my/8090/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ТЕТ HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%A2%D0%95%D0%A2%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8138/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", ТЕТ HD UA
-https://live.uspeh.my/8138/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="НТН HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9D%D0%A2%D0%9D.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8280/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", НТН HD UA
-https://live.uspeh.my/8280/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Новий канал HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9D%D0%BE%D0%B2%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8130/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Канал HD UA
-https://live.uspeh.my/8130/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Мега HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9C%D0%B5%D0%B3%D0%B0%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8100/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Мега HD UA
-https://live.uspeh.my/8100/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/8347/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="СТБ HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%A1%D0%A2%D0%91%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8090/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", ТБ HD UA
+https://live.uspeh.my/8090/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="ТЕТ HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%A2%D0%95%D0%A2%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8138/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", ТЕТ HD UA
+https://live.uspeh.my/8138/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="НТН HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9D%D0%A2%D0%9D.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8280/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", НТН HD UA
+https://live.uspeh.my/8280/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Новий канал HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9D%D0%BE%D0%B2%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8130/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Канал HD UA
+https://live.uspeh.my/8130/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Мега HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%9C%D0%B5%D0%B3%D0%B0%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8100/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Мега HD UA
+https://live.uspeh.my/8100/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="FILMUADRAMA HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/Film%20UA%20Drama.png" catchup-days="0", FILMUADRAMA HD UA
-https://live.uspeh.my/8314/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/8314/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="Суспільне Культура UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%A1%D1%83%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%B5%20%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%20HD.png" catchup-days="0", Суспільне Культура UA
-https://live.uspeh.my/8816/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/8816/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="Суспільне Спорт HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%A1%D1%83%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%B5%20%D0%A1%D0%BF%D0%BE%D1%80%D1%82%20HD.png" catchup-days="0", Суспільне Спорт HD UA
-https://live.uspeh.my/8828/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Setanta Sports HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/Setanta%20Sports+%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8382/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Setanta Sports HD UA
-https://live.uspeh.my/8382/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Setanta Sports + HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/Setanta%20Sports%20Ukraine%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8329/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Setanta Sports + HD UA
-https://live.uspeh.my/8329/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/8828/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Setanta Sports HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/Setanta%20Sports+%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8382/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Setanta Sports HD UA
+https://live.uspeh.my/8382/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Setanta Sports + HD UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/Setanta%20Sports%20Ukraine%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8329/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Setanta Sports + HD UA
+https://live.uspeh.my/8329/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="Sport 1 UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-1%20UA.png" catchup-days="0", Sport 1 UA
-https://live.uspeh.my/8234/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Sport 2 UA" group-title="Украина-test"  tvg-logo="https://icon.uspeh.my/icon/%D0%A1%D0%BF%D0%BE%D1%80%D1%82-2%20UA.png" catchup-days="0", Sport 2 UA
+https://live.uspeh.my/8234/video.m3u8?token=XXM4p2j6rPXVpT18
+
+
+#EXTINF:-1 tvg-name="Перший HD" group-title="Україна-27.11",Перший HD
+http://s2.00x00.es/10600/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Інтер HD" group-title="Україна-27.11",Інтер HD
+http://s2.00x00.es/10601/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="1+1 Марафон HD" group-title="Україна-27.11",1+1 Марафон HD
+http://s2.00x00.es/10602/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="1+1 Марафон" group-title="Україна-27.11",1+1 Марафон
+http://s2.00x00.es/10603/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="1+1 Міжнародний" group-title="Україна-27.11",1+1 Міжнародний
+http://s2.00x00.es/10604/index.m3u8?token=0C0BB8C458E3
+http://s2.00x00.es/10606/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="ICTV2" group-title="Україна-27.11",TV2
+http://s2.00x00.es/10607/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Новий канал HD" group-title="Україна-27.11",Канал HD
+http://s2.00x00.es/10608/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Новий канал" group-title="Україна-27.11",Kанал
+http://s2.00x00.es/10609/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="ТЕТ HD" group-title="Україна-27.11",ТЕТ HD
+http://s2.00x00.es/10610/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Enter-фильм HD" group-title="Україна-27.11",Enter-фильм HD
+http://s2.00x00.es/10611/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="СТБ HD" group-title="Україна-27.11",ТБ HD
+http://s2.00x00.es/10612/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="СТБ" group-title="Україна-27.11",ТБ
+http://s2.00x00.es/10613/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="RAZ1" group-title="Україна-27.11",RAZ1
+http://s2.00x00.es/10614/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Суспільне Київ HD" group-title="Україна-27.11",Суспільне Київ HD
+http://s2.00x00.es/10615/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="2+2 HD" group-title="Україна-27.11",2+2 HD
+http://s2.00x00.es/10616/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="1+1 Україна" group-title="Україна-27.11",1+1 Україна
+http://s2.00x00.es/10617/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="НТН HD" group-title="Україна-27.11",НТН HD
+http://s2.00x00.es/10618/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Мега HD" group-title="Україна-27.11",Мега HD
+http://s2.00x00.es/10619/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="КИЇВ 24 News" group-title="Україна-27.11",КИЇВ 24 News
+http://s2.00x00.es/10620/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Інтер+ HD" group-title="Україна-27.11",Інтер+ HD
+http://s2.00x00.es/10621/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Уніан Серіал HD" group-title="Україна-27.11",Уніан Серіал HD
+http://s2.00x00.es/10622/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="К1 HD" group-title="Україна-27.11",К1 HD
+http://s2.00x00.es/10623/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="К2 HD" group-title="Україна-27.11",К2 HD
+http://s2.00x00.es/10624/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="НТК Коломия" group-title="Україна-27.11",НТК Коломия
+http://s2.00x00.es/10625/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Кус-кус HD" group-title="Україна-27.11",Кус-кус HD
+http://s2.00x00.es/10626/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Дача HD" group-title="Україна-27.11",Дача HD
+http://s2.00x00.es/10627/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Бігуді" group-title="Україна-27.11",Бігуді
+http://s2.00x00.es/10628/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="RAZ 3" group-title="Україна-27.11",RAZ 3
+http://s2.00x00.es/10629/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Перший автомобільний" group-title="Україна-27.11",Перший автомобільний
+http://s2.00x00.es/10630/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="24 новини" group-title="Україна-27.11",24 новини
+http://s2.00x00.es/10631/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="5 канал" group-title="Україна-27.11",5 канал
+http://s2.00x00.es/10632/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="ПлюсПлюс HD" group-title="Україна-27.11",ПлюсПлюс HD
+http://s2.00x00.es/10633/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="ПлюсПлюс" group-title="Україна-27.11",ПлюсПлюс
+http://s2.00x00.es/10634/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="11 канал Дніпро" group-title="Україна-27.11",11 канал Дніпро
+http://s2.00x00.es/10635/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Film.Ua Drama" group-title="Україна-27.11",Film.Ua Drama
+http://s2.00x00.es/10636/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Сонце" group-title="Україна-27.11",Сонце
+http://s2.00x00.es/10637/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Рада" group-title="Україна-27.11",Рада
+http://s2.00x00.es/10638/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Піксель HD" group-title="Україна-27.11",Піксель HD
+http://s2.00x00.es/10639/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Піксель" group-title="Україна-27.11",Піксель
+http://s2.00x00.es/10640/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Прямий HD" group-title="Україна-27.11",Прямий HD
+http://s2.00x00.es/10641/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Конкурент. Волинь" group-title="Україна-27.11",Конкурент. Волинь
+http://s2.00x00.es/10642/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Еспресо TV" group-title="Україна-27.11",Еспресо TV
+http://s2.00x00.es/10643/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Оце" group-title="Україна-27.11",Оце
+http://s2.00x00.es/10644/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="FreeДом" group-title="Україна-27.11",FreeДом
+http://s2.00x00.es/10645/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="МТМ (Запоріжжя)" group-title="Україна-27.11",МТМ (Запоріжжя)
+http://s2.00x00.es/10646/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Світло" group-title="Україна-27.11",Світло
+http://s2.00x00.es/10647/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Перший міський (Одеса)" group-title="Україна-27.11",Перший міський (Одеса)
+http://s2.00x00.es/10648/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Перший Західний" group-title="Україна-27.11",Перший Західний
+http://s2.00x00.es/10649/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Kinoshka Ukraine HD" group-title="Україна-27.11",Kinoshka Ukraine HD
+http://s2.00x00.es/10650/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="ТРК Київ" group-title="Україна-27.11",ТРК Київ
+http://s2.00x00.es/10651/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Comedy Central" group-title="Україна-27.11",Comedy Central
+http://s2.00x00.es/10652/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cine+" group-title="Україна-27.11",Cine+
+http://s2.00x00.es/10653/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cine+ Hit HD" group-title="Україна-27.11",Cine+ Hit HD
+http://s2.00x00.es/10654/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cine+ Legend" group-title="Україна-27.11",Cine+ Legend
+http://s2.00x00.es/10655/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cine+ Kids" group-title="Україна-27.11",Cine+ Kids
+http://s2.00x00.es/10656/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="CPS Fresh UA" group-title="Україна-27.11",CPS Fresh UA
+http://s2.00x00.es/10657/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Ми - Україна" group-title="Україна-27.11",Ми - Україна
+http://s2.00x00.es/10658/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Сварожичи" group-title="Україна-27.11",Сварожичи
+http://s2.00x00.es/10659/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="AMC" group-title="Україна-27.11",AMC
+http://s2.00x00.es/10663/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="СІМЕЙНІ МЕЛОДРАМИ" group-title="Україна-27.11",СІМЕЙНІ МЕЛОДРАМИ
+http://s2.00x00.es/10664/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="NIKI Junior" group-title="Україна-27.11",NIKI Junior
+http://s2.00x00.es/10665/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="NIKI Kids" group-title="Україна-27.11",NIKI Kids
+http://s2.00x00.es/10666/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Super +" group-title="Україна-27.11",Super +
+http://s2.00x00.es/10667/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Твоє Кіно Hit HD" group-title="Україна-27.11",Твоє Кіно Hit HD
+http://s2.00x00.es/10668/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Твоє Кіно Action HD" group-title="Україна-27.11",Твоє Кіно Action HD
+http://s2.00x00.es/10669/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Твоє Кіно Relax HD" group-title="Україна-27.11",Твоє Кіно Relax HD
+http://s2.00x00.es/10670/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="ТВІЙ СЕРІАЛ" group-title="Україна-27.11",ТВІЙ СЕРІАЛ
+http://s2.00x00.es/10671/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="RAZ 2" group-title="Україна-27.11",RAZ 2
+http://s2.00x00.es/10672/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="ProKino HD" group-title="Україна-27.11",ProKino HD
+http://s2.00x00.es/10673/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="KinoKazka" group-title="Україна-27.11",KinoKazka
+http://s2.00x00.es/10674/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Kino Comedy HD" group-title="Україна-27.11",Kino Comedy HD
+http://s2.00x00.es/10676/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="НАШЕ Ретро HD" group-title="Україна-27.11",НАШЕ Ретро HD
+http://s2.00x00.es/20927/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="НАШЕ Music HD" group-title="Україна-27.11",НАШЕ Music HD
+http://s2.00x00.es/20928/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Сонце+" group-title="Україна-27.11",Сонце+
+http://s2.00x00.es/20929/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Ми Україна+ HD" group-title="Україна-27.11",Ми Україна+ HD
+http://s2.00x00.es/20930/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="ДІМ HD" group-title="Україна-27.11",ДІМ HD
+http://s2.00x00.es/20931/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Масон ТВ" group-title="Україна-27.11",Масон ТВ
+http://s2.00x00.es/20932/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Eco TV" group-title="Україна-27.11",Eco TV
+http://s2.00x00.es/20933/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Світ+" group-title="Україна-27.11",Світ+
+http://s2.00x00.es/20934/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="One Planet" group-title="Україна-27.11",One Planet
+http://s2.00x00.es/20935/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="UTravel" group-title="Україна-27.11",UTravel
+http://s2.00x00.es/20936/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Суспільне Культура HD" group-title="Україна-27.11",Суспільне Культура HD
+http://s2.00x00.es/20937/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Фронт HD" group-title="Україна-27.11",Фронт HD
+http://s2.00x00.es/20938/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Армія ТВ" group-title="Україна-27.11",Армія ТВ
+http://s2.00x00.es/20939/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Музвар" group-title="Україна-27.11",Музвар
+http://s2.00x00.es/20940/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="ЕТНО канал HD" group-title="Україна-27.11",ЕТНО канал HD
+http://s2.00x00.es/20941/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="36.6" group-title="Україна-27.11",36.6
+http://s2.00x00.es/20942/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Зоосвіт" group-title="Україна-27.11",Зоосвіт
+http://s2.00x00.es/20943/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="InRating HD" group-title="Україна-27.11",InRating HD
+http://s2.00x00.es/20944/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="6 соток HD" group-title="Україна-27.11",6 соток HD
+http://s2.00x00.es/20945/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Бікіні" group-title="Україна-27.11",Бікіні
+http://s2.00x00.es/20946/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="UA Fashion TV" group-title="Україна-27.11",UA Fashion TV
+http://s2.00x00.es/20947/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Закон ТБ" group-title="Україна-27.11",Закон ТБ
+http://s2.00x00.es/20948/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Zoom HD" group-title="Україна-27.11",Zoom HD
+http://s2.00x00.es/20949/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="PV+" group-title="Україна-27.11",PV+
+http://s2.00x00.es/10675/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Апостроф" group-title="Україна-27.11",Апостроф
+http://s2.00x00.es/10660/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Viasat True Crime" group-title="Україна-27.11",Viasat True Crime
+http://s2.00x00.es/20953/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Star Cinema" group-title="Україна-27.11",Star Cinema
+http://s2.00x00.es/20954/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Star Cinema HD" group-title="Україна-27.11",Star Cinema HD
+http://s2.00x00.es/20955/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Bolt UA" group-title="Україна-27.11",Bolt UA
+http://s2.00x00.es/20960/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Bolt UA HD" group-title="Україна-27.11",Bolt UA HD
+http://s2.00x00.es/20961/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="KINOGRANDE" group-title="Україна-27.11",KINOGRANDE
+http://s2.00x00.es/20962/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="History HD" group-title="Україна-27.11",History HD
+http://s2.00x00.es/20963/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="ITV MEDIA GROUP HD" group-title="Україна-27.11",ITV MEDIA GROUP HD
+http://s2.00x00.es/20964/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema Family HD" group-title="Україна-27.11",Cinema Family HD
+http://s2.00x00.es/20966/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema Megahit HD" group-title="Україна-27.11",Cinema Megahit HD
+http://s2.00x00.es/20967/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema Kinohit HD" group-title="Україна-27.11",Cinema Kinohit HD
+http://s2.00x00.es/20968/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema Prime HD" group-title="Україна-27.11",Cinema Prime HD
+http://s2.00x00.es/20969/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema Action HD" group-title="Україна-27.11",Cinema Action HD
+http://s2.00x00.es/20970/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema Legend HD" group-title="Україна-27.11",Cinema Legend HD
+http://s2.00x00.es/20971/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema1" group-title="Україна-27.11",Cinema1
+http://s2.00x00.es/20984/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema2" group-title="Україна-27.11",Cinema2
+http://s2.00x00.es/20985/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema3" group-title="Україна-27.11",Cinema3
+http://s2.00x00.es/20986/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema4" group-title="Україна-27.11",Cinema4
+http://s2.00x00.es/20987/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema5" group-title="Україна-27.11",Cinema5
+http://s2.00x00.es/20988/index.m3u8?token=0C0BB8C458E3
+#EXTINF:-1 tvg-name="Cinema6" group-title="Україна-27.11",Cinema6
+http://s2.00x00.es/20989/index.m3u8?token=0C0BB8C458E3

@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦24.11.2026|12-50|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1,🛠Ревизия №-1 🚦27.11.2026|16-00|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 
 
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Mega
@@ -124,86 +124,86 @@ https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv2
 
 
 #EXTINF:-1 tvg-id="The Explorers" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/The%20Explorers.png" catchup-days="0", The Explorers
-https://live.uspeh.my/9486/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="TERRA" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/TERRA%20HD.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8078/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", TERRA
-https://live.uspeh.my/8078/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Нано HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%9D%D0%B0%D0%BD%D0%BE%20%D0%A2%D0%92.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8181/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Нано HD
-https://live.uspeh.my/8181/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Т24" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%A224%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8196/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Т24
-https://live.uspeh.my/8196/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="TLC" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/TLC%20DE.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8060/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", TLC
-https://live.uspeh.my/8060/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="viju Explore HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Viasat%20Explore.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8085/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", viju Explore HD
-https://live.uspeh.my/8085/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="viju Nature HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Viju%20Nature%20HD.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8087/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", viju Nature HD
-https://live.uspeh.my/8087/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Моя Планета" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%9C%D0%BE%D1%8F%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8154/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Моя Планета
-https://live.uspeh.my/8154/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Da Vinci" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Da%20Vinci%20Kids%20PL.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8088/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Da Vinci
-https://live.uspeh.my/8088/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="English Class HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/English%20Club%20TV%20HD%20Orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8208/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", English Class HD
-https://live.uspeh.my/8208/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="GoldLine Civilizations HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/9500.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/9500/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", GoldLine Civilizations HD
-https://live.uspeh.my/9500/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Усадьба" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8017/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Усадьба
-https://live.uspeh.my/8017/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="ЕДА" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%95%D0%B4%D0%B0.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8140/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", ЕДА
-https://live.uspeh.my/8140/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Travel+Adventure HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Travel+Adventure%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8170/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Travel+Adventure HD
-https://live.uspeh.my/8170/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Travel Channel" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Travel%20Channel%20EN.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8083/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Travel Channel
-https://live.uspeh.my/8083/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Travel Channel HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Travel%20Channel%20HD%20RO.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8315/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Travel Channel HD
-https://live.uspeh.my/8315/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Russian Travel Guide" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/RTG%20TV%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8151/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Russian Travel Guide
-https://live.uspeh.my/8151/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Russian Travel Guide HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/RTG%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8173/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Russian Travel Guide HD
-https://live.uspeh.my/8173/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Домашние животные" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8081/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Домашние животные
-https://live.uspeh.my/8081/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="БОБЁР" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%91%D0%BE%D0%B1%D1%91%D1%80.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8172/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", БОБЁР
-https://live.uspeh.my/8172/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Animal Planet" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Animal%20Planet%20HD.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8075/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Animal Planet
-https://live.uspeh.my/8075/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Animal Planet HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Animal%20Planet%20HD%20DE.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8167/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Animal Planet HD
-https://live.uspeh.my/8167/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9486/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="TERRA" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/TERRA%20HD.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8078/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", TERRA
+https://live.uspeh.my/8078/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Нано HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%9D%D0%B0%D0%BD%D0%BE%20%D0%A2%D0%92.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8181/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="3", Нано HD
+https://live.uspeh.my/8181/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Т24" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%A224%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8196/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Т24
+https://live.uspeh.my/8196/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="TLC" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/TLC%20DE.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8060/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", TLC
+https://live.uspeh.my/8060/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="viju Explore HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Viasat%20Explore.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8085/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", viju Explore HD
+https://live.uspeh.my/8085/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="viju Nature HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Viju%20Nature%20HD.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8087/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", viju Nature HD
+https://live.uspeh.my/8087/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Моя Планета" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%9C%D0%BE%D1%8F%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8154/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Моя Планета
+https://live.uspeh.my/8154/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Da Vinci" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Da%20Vinci%20Kids%20PL.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8088/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Da Vinci
+https://live.uspeh.my/8088/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="English Class HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/English%20Club%20TV%20HD%20Orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8208/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", English Class HD
+https://live.uspeh.my/8208/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="GoldLine Civilizations HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/9500.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/9500/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="1", GoldLine Civilizations HD
+https://live.uspeh.my/9500/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Усадьба" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8017/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Усадьба
+https://live.uspeh.my/8017/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="ЕДА" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%95%D0%B4%D0%B0.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8140/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", ЕДА
+https://live.uspeh.my/8140/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Travel+Adventure HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Travel+Adventure%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8170/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Travel+Adventure HD
+https://live.uspeh.my/8170/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Travel Channel" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Travel%20Channel%20EN.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8083/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Travel Channel
+https://live.uspeh.my/8083/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Travel Channel HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Travel%20Channel%20HD%20RO.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8315/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Travel Channel HD
+https://live.uspeh.my/8315/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Russian Travel Guide" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/RTG%20TV%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8151/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Russian Travel Guide
+https://live.uspeh.my/8151/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Russian Travel Guide HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/RTG%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8173/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Russian Travel Guide HD
+https://live.uspeh.my/8173/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Домашние животные" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8081/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Домашние животные
+https://live.uspeh.my/8081/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="БОБЁР" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%91%D0%BE%D0%B1%D1%91%D1%80.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8172/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", БОБЁР
+https://live.uspeh.my/8172/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Animal%20Planet%20HD.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8075/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Animal Planet
+https://live.uspeh.my/8075/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Animal Planet HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Animal%20Planet%20HD%20DE.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8167/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Animal Planet HD
+https://live.uspeh.my/8167/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="Дикий" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%94%D0%B8%D0%BA%D0%B8%D0%B9%20orig.png" catchup-days="0", Дикий
-https://live.uspeh.my/9205/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9205/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="Дикая охота HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%94%D0%B8%D0%BA%D0%B0%D1%8F%20%D0%BE%D1%85%D0%BE%D1%82%D0%B0%20HD%20orig.png" catchup-days="0", Дикая охота HD
-https://live.uspeh.my/9206/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Охота и Рыбалка" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20%D0%B8%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8065/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Охота и Рыбалка
-https://live.uspeh.my/8065/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Охотник и рыболов HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B8%20%D0%A0%D1%8B%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8183/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Охотник и рыболов HD
-https://live.uspeh.my/8183/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Авто Плюс" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%90%D0%B2%D1%82%D0%BE%20%D0%9F%D0%BB%D1%8E%D1%81%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8095/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Авто Плюс
-https://live.uspeh.my/8095/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Наука" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8104/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Наука
-https://live.uspeh.my/8104/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Океан HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/OCEAN-TV.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8069/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Океан HD
-https://live.uspeh.my/8069/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Discovery Channel" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/DISCOVERY%20CHANNEL%20HD%20IL.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8076/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Discovery Channel
-https://live.uspeh.my/8076/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Discovery Channel HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Canal%20Discovery%20HD%20PL.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8180/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Discovery Channel HD
-https://live.uspeh.my/8180/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Investigation Discovery" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Investigation%20Discovery%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8074/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Investigation Discovery
-https://live.uspeh.my/8074/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="National Geographic" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/National%20Geographic%20HD%2050.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8080/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", National Geographic
-https://live.uspeh.my/8080/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="National Geographic HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/[magenta]%20National%20Geographic.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8176/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", National Geographic HD
-https://live.uspeh.my/8176/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="National Geographic Wild" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/NAT%20GEO%20WILD%20IL.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8079/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", National Geographic Wild
-https://live.uspeh.my/8079/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="National Geographic Wild HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Nat%20Geo%20Wild%20HD%20RO.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8188/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", National Geographic Wild HD
-https://live.uspeh.my/8188/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Совершенно Секретно" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%A1%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%20%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8073/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Совершенно Секретно
-https://live.uspeh.my/8073/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="History International" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/History%20Channel%20HD%20TR.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8356/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", History International
-https://live.uspeh.my/8356/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9206/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Охота и Рыбалка" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20%D0%B8%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8065/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Охота и Рыбалка
+https://live.uspeh.my/8065/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Охотник и рыболов HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B8%20%D0%A0%D1%8B%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8183/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Охотник и рыболов HD
+https://live.uspeh.my/8183/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Авто Плюс" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%90%D0%B2%D1%82%D0%BE%20%D0%9F%D0%BB%D1%8E%D1%81%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8095/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Авто Плюс
+https://live.uspeh.my/8095/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Наука" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8104/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Наука
+https://live.uspeh.my/8104/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Океан HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/OCEAN-TV.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8069/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Океан HD
+https://live.uspeh.my/8069/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Discovery Channel" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/DISCOVERY%20CHANNEL%20HD%20IL.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8076/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Discovery Channel
+https://live.uspeh.my/8076/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Discovery Channel HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Canal%20Discovery%20HD%20PL.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8180/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Discovery Channel HD
+https://live.uspeh.my/8180/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Investigation Discovery" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Investigation%20Discovery%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8074/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Investigation Discovery
+https://live.uspeh.my/8074/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="National Geographic" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/National%20Geographic%20HD%2050.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8080/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", National Geographic
+https://live.uspeh.my/8080/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/[magenta]%20National%20Geographic.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8176/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", National Geographic HD
+https://live.uspeh.my/8176/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="National Geographic Wild" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/NAT%20GEO%20WILD%20IL.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8079/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", National Geographic Wild
+https://live.uspeh.my/8079/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="National Geographic Wild HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Nat%20Geo%20Wild%20HD%20RO.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8188/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", National Geographic Wild HD
+https://live.uspeh.my/8188/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Совершенно Секретно" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%A1%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%20%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8073/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Совершенно Секретно
+https://live.uspeh.my/8073/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="History International" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/History%20Channel%20HD%20TR.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8356/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", History International
+https://live.uspeh.my/8356/video.m3u8?token=XXM4p2j6rPXVpT18
 #EXTINF:-1 tvg-id="History 2 HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/HISTORY%202%20HD%20SE.png" catchup-days="0", History 2 HD
-https://live.uspeh.my/9226/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="viju History HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Viju%20History%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8086/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", viju History HD
-https://live.uspeh.my/8086/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Здоровое ТВ" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8127/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", Здоровое ТВ
-https://live.uspeh.my/8127/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Доктор" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8214/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="14", Доктор
-https://live.uspeh.my/8214/video.m3u8?token=EHFHvNjTwqcqsiKN
+https://live.uspeh.my/9226/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="viju History HD" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/Viju%20History%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8086/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", viju History HD
+https://live.uspeh.my/8086/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Здоровое ТВ" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8127/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="7", Здоровое ТВ
+https://live.uspeh.my/8127/video.m3u8?token=XXM4p2j6rPXVpT18
+#EXTINF:-1 tvg-id="Доктор" group-title="Познавательные"  tvg-logo="https://icon.uspeh.my/icon/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80%20orig.png" catchup="default" catchup-days="14" catchup-source="https://live.uspeh.my/8214/video-${start}-${duration}.m3u8?token=XXM4p2j6rPXVpT18" timeshift="14", Доктор
+https://live.uspeh.my/8214/video.m3u8?token=XXM4p2j6rPXVpT18
